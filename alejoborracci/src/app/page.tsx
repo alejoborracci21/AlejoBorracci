@@ -25,9 +25,9 @@ export default function Home() {
       <div className="container mx-auto">
         <Card className="text-center">
           <CardHeader>
-            <Avatar className="w-40 h-36 mx-auto mb-4">
+            <Avatar className="w-44 h-40 mx-auto mb-4">
               <AvatarImage src="/profile.jpg" alt="Foto de perfil" />
-              <AvatarFallback>JP</AvatarFallback>
+              <AvatarFallback>AlejoBorracci</AvatarFallback>
             </Avatar>
             <CardTitle className="text-3xl font-bold">Desarrollador Fullstack</CardTitle>
             <CardDescription className="text-lg mt-2">
